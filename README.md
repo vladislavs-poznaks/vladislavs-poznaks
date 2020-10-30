@@ -37,4 +37,4 @@
 </ul>
 
 <p align="center"> You can contact me at <b>vladislavs.poznaks@gmail.com</b> or by sending PM on LinkedIn: </p> 
-<p align="center"><a href=https://www.linkedin.com/in/vladislavs-poznaks/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vlad" height="50" width="50" /></a>
+<p align="center"><a href=https://www.linkedin.com/in/vladislavs-poznaks/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vlad" height="75" width="75" /></a>

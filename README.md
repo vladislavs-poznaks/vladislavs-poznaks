@@ -13,7 +13,7 @@
 <p align="center"> but would love to add new icons above as well 🤓 </p>
 
 <p align="center">Below are my <b>TOP 3 repositories</b> I currently take special pride in</p>
-<p align="center">⬇⬇⬇</p>
+<p align="center">⬇</p>
 
 <p align="center">
   <a href="https://github.com/vladislavs-poznaks/game-aggregator">
@@ -27,11 +27,13 @@
   </a>
 </p>
 
-<p align="center"> Summary </p>
-<ul align="center">
-  <li align="center"> Game Aggregator, built with Laravel, using Livewire & Alpine JS for dynamic components, powered by IGDB API </li>
-  <li align="center"> BlackJack, pure PHP MVC app with custom Controller, Request & Router classes </li>
-  <li align="center"> Virtual Wallets, built with Laravel & Tailwind CSS </li>
+<p align="center">🚀 [jump to repository by clicking the GIF]</p>
+
+<p align="left"> Summary </p>
+<ul align="left">
+  <li align="left"> Game Aggregator, built with Laravel, using Livewire & Alpine JS for dynamic components, powered by IGDB API </li>
+  <li align="left"> BlackJack, pure PHP MVC app with custom Controller, Request & Router classes </li>
+  <li align="left"> Virtual Wallets, built with Laravel & Tailwind CSS </li>
 </ul>
 
 <p align="center"> You can contact me at <b>vladislavs.poznaks@gmail.com</b> or by sending PM on LinkedIn: </p> 

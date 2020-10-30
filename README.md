@@ -14,5 +14,11 @@
 
 <p align="center">⬇ Below are my TOP 3 repositories I currently take special pride in ⬇</p>
 
+<p align="center"> 
+  <img src=GameAggregator.gif alt=GameAggregator width="200"/>
+  <img src=BlackJack.gif alt=BlackJack width="200"/>
+  <img src=VirtualWallets.gif alt=VirtualWallets width="200"/>
+</p>
+
 <p align="center"> You can contact me at <b>vladislavs.poznaks@gmail.com</b> or by sending PM on LinkedIn: </p> 
 <p align="center"><a href=https://www.linkedin.com/in/vladislavs-poznaks/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vlad" height="50" width="50" /></a>

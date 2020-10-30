@@ -12,13 +12,27 @@
 
 <p align="center"> but would love to add new icons above as well 🤓 </p>
 
-<p align="center">⬇ Below are my TOP 3 repositories I currently take special pride in ⬇</p>
+<p align="center">Below are my <b>TOP 3 repositories</b> I currently take special pride in</p>
+<p align="center">⬇⬇⬇</p>
 
-<p align="center"> 
-  <img src=GameAggregator.gif alt=GameAggregator width="300"/>
-  <img src=BlackJack.gif alt=BlackJack width="300"/>
-  <img src=VirtualWallets.gif alt=VirtualWallets width="300"/>
+<p align="center">
+  <a href="https://github.com/vladislavs-poznaks/game-aggregator">
+  <img src=GameAggregator.gif alt=GameAggregator width="250"/>
+  </a>
+  <a href="https://github.com/vladislavs-poznaks/mini-projects/tree/main/01-BlackJack/Web-Version">
+  <img src=BlackJack.gif alt=BlackJack width="250"/>
+  </a>
+  <a href="https://github.com/vladislavs-poznaks/virtual-wallets">
+  <img src=VirtualWallets.gif alt=VirtualWallets width="250"/>
+  </a>
 </p>
+
+<p align="center"> Summary </p>
+<ul align="center">
+  <li align="center"> Game Aggregator, built with Laravel, using Livewire & Alpine JS for dynamic components, powered by IGDB API </li>
+  <li align="center"> BlackJack, pure PHP MVC app with custom Controller, Request & Router classes </li>
+  <li align="center"> Virtual Wallets, built with Laravel & Tailwind CSS </li>
+</ul>
 
 <p align="center"> You can contact me at <b>vladislavs.poznaks@gmail.com</b> or by sending PM on LinkedIn: </p> 
 <p align="center"><a href=https://www.linkedin.com/in/vladislavs-poznaks/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vlad" height="50" width="50" /></a>

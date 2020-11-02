@@ -39,4 +39,4 @@
 <p align="center"> You can contact me at <b>vladislavs.poznaks@gmail.com</b> or by sending PM on LinkedIn: </p> 
 <p align="center"><a href=https://www.linkedin.com/in/vladislavs-poznaks/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vlad" height="75" width="75" /></a>
     
-<a href="https://github.com/vladislavs-poznaks/vladislavs-poznaks/blob/main/CV-vladislavs-poznaks.pdf" align="center">📄 Get My CV!</a>
+<p align="center">📄 Get My <a href="https://github.com/vladislavs-poznaks/vladislavs-poznaks/blob/main/CV-vladislavs-poznaks.pdf">CV</a>!</p>

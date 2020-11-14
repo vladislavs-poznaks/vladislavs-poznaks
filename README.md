@@ -8,6 +8,7 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
   <img src=https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg alt=laravel width="40" height="40"/>
   <img src=https://devicon.dev/devicon.git/icons/php/php-original.svg alt=php width="40" height="40"/>
+  <img src=https://devicon.dev/devicon.git/icons/react/react-original.svg alt=react width="40" height="40"/>
 </p>
 
 <p align="center"> but would love to add new icons above as well 🤓 </p>

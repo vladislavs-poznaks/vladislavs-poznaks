@@ -17,14 +17,14 @@
 <p align="center">⬇</p>
 
 <p align="center">
+  <a href="https://github.com/vladislavs-poznaks/virtual-wallets">
+  <img src=VirtualWallets.gif alt=VirtualWallets width="250"/>
+  </a>
   <a href="https://github.com/vladislavs-poznaks/game-aggregator">
   <img src=GameAggregator.gif alt=GameAggregator width="250"/>
   </a>
   <a href="https://github.com/vladislavs-poznaks/mini-projects/tree/main/01-BlackJack/Web-Version">
   <img src=BlackJack.gif alt=BlackJack width="250"/>
-  </a>
-  <a href="https://github.com/vladislavs-poznaks/virtual-wallets">
-  <img src=VirtualWallets.gif alt=VirtualWallets width="250"/>
   </a>
 </p>
 

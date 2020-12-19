@@ -17,8 +17,8 @@
 <p align="center">⬇</p>
 
 <p align="center">
-  <a href="https://github.com/vladislavs-poznaks/virtual-wallets">
-  <img src=VirtualWallets.gif alt=VirtualWallets width="250"/>
+  <a href="https://github.com/vladislavs-poznaks/codelex-banking">
+  <img src=CodelexBanking.gif alt=CodelexBanking width="250"/>
   </a>
   <a href="https://github.com/vladislavs-poznaks/game-aggregator">
   <img src=GameAggregator.gif alt=GameAggregator width="250"/>

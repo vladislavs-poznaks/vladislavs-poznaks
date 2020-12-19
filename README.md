@@ -32,9 +32,9 @@
 
 <p align="left"> Summary </p>
 <ul align="left">
+  <li align="left"> Codelex Banking, built with Laravel, laravel/breeze, pragmarx/google2fa-laravel </li>
   <li align="left"> Game Aggregator, built with Laravel, using Livewire & Alpine JS for dynamic components, powered by IGDB API </li>
   <li align="left"> BlackJack, pure PHP MVC app with custom Controller, Request & Router classes </li>
-  <li align="left"> Virtual Wallets, built with Laravel & Tailwind CSS </li>
 </ul>
 
 <p align="center"> You can contact me at <b>vladislavs.poznaks@gmail.com</b> or by sending PM on LinkedIn: </p> 

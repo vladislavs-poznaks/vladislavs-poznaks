@@ -4,8 +4,8 @@
 
 <p align="center"> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt=javascript/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt=css3 width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=javascript width="40" height="40"/>
   <img src=https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg alt=laravel width="40" height="40"/>
   <img src=https://devicon.dev/devicon.git/icons/php/php-original.svg alt=php width="40" height="40"/>
   <img src=https://devicon.dev/devicon.git/icons/react/react-original.svg alt=react width="40" height="40"/>

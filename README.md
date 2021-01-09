@@ -3,12 +3,12 @@
 <p align="center"> Currently working with </p>
 
 <p align="center"> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt=css3 width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=javascript width="40" height="40"/>
-  <img src=https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg alt=laravel width="40" height="40"/>
-  <img src=https://devicon.dev/devicon.git/icons/php/php-original.svg alt=php width="40" height="40"/>
-  <img src=https://devicon.dev/devicon.git/icons/react/react-original.svg alt=react width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg alt=laravel width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg alt=php width="40" height="40"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="40" height="40"/>
 </p>
 
 <p align="center"> but would love to add new icons above as well 🤓 </p>
